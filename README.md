@@ -1,2 +1,4 @@
 # UniversalStacktrace
-C++ Stacktrace for windows linux and os/x
+
+C++ Stacktrace for MSWindows, Linux and OS/X.
+
